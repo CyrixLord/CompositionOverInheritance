@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CompositionOverInheritance
 {
-    class MonsterFactory
+    public class MonsterFactory
     {
         public enum MonsterType
         {
